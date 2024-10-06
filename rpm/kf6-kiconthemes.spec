@@ -29,7 +29,7 @@ BuildRequires:  kf6-kwidgetsaddons-devel
 
 BuildRequires:  pkgconfig(xkbcommon)
 
-Requires:       hicolor-icon-theme
+Requires:       breeze-icon-theme
 
 %description
 KDE Frameworks 6 Tier 3 integration module with icon themes
